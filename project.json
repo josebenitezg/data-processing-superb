@@ -1,0 +1,368 @@
+{
+    "type": "image-siesta",
+    "version": "0.6.4",
+    "data_type": "image",
+    "categorization": {
+        "properties": []
+    },
+    "object_detection": {
+        "keypoints": [],
+        "object_groups": [],
+        "object_classes": [
+            {
+                "id": "d45883b9-70be-4659-83f9-ecb4d3a7d299",
+                "name": "coca_cola_1,5l_1239",
+                "color": "#FF625A",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "6c734f71-8c49-40b5-8912-da9876cf0cd2",
+                "name": "Corona",
+                "color": "#FE9573",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "ece2f4c9-fffe-423b-b36c-03126ded79bb",
+                "name": "Budweiser_330",
+                "color": "#FFAF5A",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "4f89dd75-1d38-45f1-998c-2e7ce44b3ce3",
+                "name": "Brahma_Duplo_Malte_350_ml",
+                "color": "#FFCC00",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "cb53ad94-c7e4-41d6-9bad-a0364a3cb7d9",
+                "name": "pepsi_2l",
+                "color": "#FFF73E",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "fb923bfa-766e-44ac-b171-5711c0ec608e",
+                "name": "pepsi_black_350ml_1254",
+                "color": "#DEF00F",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "4a82eaa8-3ee4-4202-9fe4-18805accbf65",
+                "name": "fanta_500ml_1249",
+                "color": "#A3EB57",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "52ffb11e-39c5-4d3b-9aaf-a7bbeb8aebbe",
+                "name": "pepsi_350ml_1255",
+                "color": "#2EFF68",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "e2bfe377-3472-49d7-a768-df5673552858",
+                "name": "sprite_500ml_1257",
+                "color": "#4AE2B9",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "2286f406-8d74-4473-abae-7e4ecdc5f162",
+                "name": "coca_cola_sin_azucare_350ml_1248",
+                "color": "#72BBFF",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "084a577b-970b-4a79-bf97-7f102c49a646",
+                "name": "schweppes_pomelo_350ml_1244",
+                "color": "#39F8F8",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "80999c4c-d9b1-417c-b21d-5a90384ae5b7",
+                "name": "coca_cola_350ml_1245",
+                "color": "#72BBFF",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "f6e40823-8471-4662-9723-acd317fec60e",
+                "name": "coca_cola_500ml_1246",
+                "color": "#5A7BFF",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "0a316100-2404-45dc-b0ed-7a9728a10669",
+                "name": "monster_ultra_500ml_1253",
+                "color": "#6648FF",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "65825380-6ecd-483a-b981-685026af43ad",
+                "name": "monster_energy_500ml_1252",
+                "color": "#AF48FF",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "e5c501c3-88f2-4009-8686-5e878ee0dbcc",
+                "name": "gatorade_naranja_500ml_1251",
+                "color": "#FF4881",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "4854cae9-d153-4563-a1c8-521ebd5e0cf0",
+                "name": "gatorade_manzana_500ml_1250",
+                "color": "#A6A6A6",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "fbb05e92-49ac-42a5-afdc-ce38e933c22c",
+                "name": "powerade_frutas_tropicales_500ml_1243",
+                "color": "#FFD0CE",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "1765b6dc-a611-49bb-bac6-b7d35b8c4ebd",
+                "name": "powerade_mountain_blast_500ml_1242",
+                "color": "#FFDFD5",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "a2c85f58-92eb-41a1-b558-415ca5c28c2e",
+                "name": "red_bull_sugar_free_250ml_1241",
+                "color": "#FFE7CE",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "789f6149-4553-4338-a2a2-e399ebcdd059",
+                "name": "red_bull_250ml_1240",
+                "color": "#FFF0B3",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "77b39831-b19b-47fc-8e67-1c83f1505026",
+                "name": "pepsi_2l_1230",
+                "color": "#FFFB9E",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "123e2abf-f809-48ec-bcb3-269a92bda146",
+                "name": "heineken_long_neck_1238",
+                "color": "#F5FBB7",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "d538c8f7-0a39-475b-a80e-c3df652ea15a",
+                "name": "stella_artois_long_neck_1237",
+                "color": "#E3F9CD",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "c822b5c4-4067-424c-9c72-e62248055357",
+                "name": "budweiser_long_neck_1236",
+                "color": "#B8FFD0",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "b80c43ba-042f-49e4-9464-63581dfe1e01",
+                "name": "stella_artois_1235",
+                "color": "#C9F6EA",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "9bada81f-b09a-41b1-b8ae-557a99eef5db",
+                "name": "corona_355_ml_1234",
+                "color": "#AFFFFF",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "09fca5b3-230a-46a0-a577-9538ce27f2c4",
+                "name": "Sukita_2L",
+                "color": "#D5EBFF",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "63a4a81d-e92b-4370-989d-573bfb557061",
+                "name": "cerveja_original_lata",
+                "color": "#CED7FF",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "66ff8d89-4010-4a1d-80a2-bddb1e19ecd6",
+                "name": "becks_330",
+                "color": "#D1C8FF",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "ecd1eecd-54a7-4071-966a-cf6133450368",
+                "name": "h2o_limoneto",
+                "color": "#E7C8FF",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "996a917c-f1b9-4d0c-91de-268ff2d4937f",
+                "name": "stella_artois_330",
+                "color": "#FFC8D9",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "2ddba51a-a37b-423d-be8b-1ea6e735c609",
+                "name": "smart_water_500ml_1256",
+                "color": "#EE0A00",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "f7d0a8af-89e5-418c-8d74-0cb771effed3",
+                "name": "sprite_lemon_lime_500ml_1258",
+                "color": "#EE0A00",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "4b19d6f7-6560-4f0f-9971-1c1dcaf23173",
+                "name": "coca_cola_sin_azucar_500ml_1247",
+                "color": "#EB5222",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "bfde79cd-bf26-4295-91a6-ce022f57d8e4",
+                "name": "gatorade_orange_591ml_1261",
+                "color": "#EA7700",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "a0090671-0eef-4a76-b61d-8f1b3d0a3d58",
+                "name": "fanta_orange_500_ml_1260",
+                "color": "#EFC000",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "06d5dff9-ed0f-4e80-83c1-391ccca4660b",
+                "name": "gatorade_lemon_lime_591ml_1262",
+                "color": "#ECE30D",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            },
+            {
+                "id": "27a37721-10e4-41df-85c3-1d1959c9257a",
+                "name": "test_label",
+                "color": "#CCDE0C",
+                "properties": [],
+                "constraints": {},
+                "ai_class_map": [],
+                "annotation_type": "box"
+            }
+        ],
+        "annotation_types": [
+            "box"
+        ]
+    }
+}
